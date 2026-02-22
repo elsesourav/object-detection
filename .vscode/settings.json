@@ -1,4 +1,5 @@
 {
   "C_Cpp.errorSquiggles": "disabled",
-  "editor.tabSize": 3
+  "editor.tabSize": 3,
+  "cSpell.words": ["onnx", "yolov"]
 }

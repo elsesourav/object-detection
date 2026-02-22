@@ -131,6 +131,7 @@ ObjectDetection: /opt/homebrew/lib/libopencv_wechat_qrcode.4.13.0.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_xfeatures2d.4.13.0.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_xobjdetect.4.13.0.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_xphoto.4.13.0.dylib
+ObjectDetection: /Users/sourav/Developer/CPP/object-detection/.venv/lib/python3.14/site-packages/torch/lib/libc10.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_shape.4.13.0.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_highgui.4.13.0.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_datasets.4.13.0.dylib
@@ -151,6 +152,9 @@ ObjectDetection: /opt/homebrew/lib/libopencv_flann.4.13.0.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_photo.4.13.0.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_imgproc.4.13.0.dylib
 ObjectDetection: /opt/homebrew/lib/libopencv_core.4.13.0.dylib
+ObjectDetection: /Users/sourav/Developer/CPP/object-detection/.venv/lib/python3.14/site-packages/torch/lib/libtorch.dylib
+ObjectDetection: /Users/sourav/Developer/CPP/object-detection/.venv/lib/python3.14/site-packages/torch/lib/libtorch_cpu.dylib
+ObjectDetection: /Users/sourav/Developer/CPP/object-detection/.venv/lib/python3.14/site-packages/torch/lib/libc10.dylib
 ObjectDetection: CMakeFiles/ObjectDetection.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sourav/Developer/CPP/object-detection/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ObjectDetection"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ObjectDetection.dir/link.txt --verbose=$(VERBOSE)

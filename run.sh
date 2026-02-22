@@ -1,6 +1,4 @@
 #!/bin/bash
-
-echo "Building the project with CMake..."
 mkdir -p build
 cd build
 cmake ..
